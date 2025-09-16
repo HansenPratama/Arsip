@@ -79,19 +79,19 @@ Detail Arsip
 
 ### Halaman Kategori Arsip
 Dashboard Kategori  
-![Dashboard Kategori](https://drive.google.com/uc?export=view&id=)
+![Dashboard Kategori](https://drive.google.com/uc?export=view&id=1SU4zZUq9kgePRZjzaM4y18YfwHPclVoL)
 
 Tambah Kategori  
-![Tambah Kategori](https://drive.google.com/uc?export=view&id=)
+![Tambah Kategori](https://drive.google.com/uc?export=view&id=1b9iiGxfbQj9eGS_Vkstr1vvDHraXPb7J)
 
 Edit Kategori  
-![Edit Kategori](https://drive.google.com/uc?export=view&id=)
+![Edit Kategori](https://drive.google.com/uc?export=view&id=1qei3dn5H9YZBM5Iy3lHgwVetCUUOKt-2)
 
 Hapus Kategori  
-![Hapus Kategori](https://drive.google.com/uc?export=view&id=)
+![Hapus Kategori](https://drive.google.com/uc?export=view&id=17qdjCZ0jenMYAW85tD8gKBParrE4svpO)
 
 ---
 
 ### Halaman About
 About  
-![About](https://drive.google.com/uc?export=view&id=1dLewHFys5JxBGYlb3m9u-BGuaqNXc-kv)
+![About](https://drive.google.com/uc?export=view&id=1mdeIy5HgjEeasaPmVkbkvA-gNC0_ovVb)
