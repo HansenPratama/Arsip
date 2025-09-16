@@ -64,16 +64,16 @@ Dashboard
 ![Dashboard Arsip](https://drive.google.com/uc?export=view&id=1dLewHFys5JxBGYlb3m9u-BGuaqNXc-kv)
 
 Tambah Arsip  
-![Tambah Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
+![Tambah Arsip](https://drive.google.com/uc?export=view&id=1HZ5nu_0DCfMKtJzDkE9Z-kNArv1xRjIn)
 
 Edit Arsip  
-![Edit Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
+![Edit Arsip](https://drive.google.com/uc?export=view&id=1ReFpOPAxe_9gHPzARLrl_IYm4zBAEjvE)
 
 Hapus Arsip  
-![Hapus Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
+![Hapus Arsip](https://drive.google.com/uc?export=view&id=13Ze58VOR4en2DhPd2PfLPB5TJQ_FGv-M)
 
 Detail Arsip  
-![Detail Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
+![Detail Arsip](https://drive.google.com/uc?export=view&id=1RgX7q9FxZfzCSgt24qwr8EY1FWBau8F5)
 
 ---
 
