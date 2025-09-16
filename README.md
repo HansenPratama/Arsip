@@ -58,7 +58,7 @@ Fungsinya meliputi penyimpanan, pencarian, pengarsipan, hingga pengunduhan file 
 10. Jalankan aplikasi:
    php artisan serve
 
-11. Dokumentasi
+11. Dokumentasi<br>
 --Halaman Arsip--
 Dashboard
 
