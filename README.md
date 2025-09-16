@@ -58,8 +58,8 @@ Fungsinya meliputi penyimpanan, pencarian, pengarsipan, hingga pengunduhan file 
 10. Jalankan aplikasi:
    php artisan serve
 
-11. Dokumentasi<br>
---Halaman Arsip--<br>
+## Dokumentasi
+### Halaman Arsip
 Dashboard
 
 Tambah Arsip
@@ -70,18 +70,14 @@ Hapus Arsip
 
 Detail Arsip
 
---Halaman Kategori Arsip--
+### Halaman Kategori Arsip
 Dashboard Kategori
-
 
 Tambah Kategori
 
-
 Edit Kategori
-
 
 Hapus Kategori
 
-
---Halaman About--
+### Halaman About
 About
