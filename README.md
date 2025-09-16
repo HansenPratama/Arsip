@@ -61,6 +61,7 @@ Fungsinya meliputi penyimpanan, pencarian, pengarsipan, hingga pengunduhan file 
 ## Dokumentasi
 ### Halaman Arsip
 Dashboard
+![Dashboard Arsip](https://drive.google.com/uc?export=view&id=1dLewHFys5JxBGYlb3m9u-BGuaqNXc-kv)
 
 Tambah Arsip
 
