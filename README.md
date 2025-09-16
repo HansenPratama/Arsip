@@ -59,7 +59,7 @@ Fungsinya meliputi penyimpanan, pencarian, pengarsipan, hingga pengunduhan file 
    php artisan serve
 
 11. Dokumentasi<br>
---Halaman Arsip--
+--Halaman Arsip--<br>
 Dashboard
 
 Tambah Arsip
