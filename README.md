@@ -63,22 +63,35 @@ Fungsinya meliputi penyimpanan, pencarian, pengarsipan, hingga pengunduhan file 
 Dashboard
 ![Dashboard Arsip](https://drive.google.com/uc?export=view&id=1dLewHFys5JxBGYlb3m9u-BGuaqNXc-kv)
 
-Tambah Arsip
+Tambah Arsip  
+![Tambah Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
 
-Edit Arsip
+Edit Arsip  
+![Edit Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
 
-Hapus Arsip
+Hapus Arsip  
+![Hapus Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
 
-Detail Arsip
+Detail Arsip  
+![Detail Arsip](https://drive.google.com/uc?export=view&id=1rL3EmDOzrQgCWKu8bKiWpCFuqTKGWKlS)
+
+---
 
 ### Halaman Kategori Arsip
-Dashboard Kategori
+Dashboard Kategori  
+![Dashboard Kategori](https://drive.google.com/uc?export=view&id=)
 
-Tambah Kategori
+Tambah Kategori  
+![Tambah Kategori](https://drive.google.com/uc?export=view&id=)
 
-Edit Kategori
+Edit Kategori  
+![Edit Kategori](https://drive.google.com/uc?export=view&id=)
 
-Hapus Kategori
+Hapus Kategori  
+![Hapus Kategori](https://drive.google.com/uc?export=view&id=)
+
+---
 
 ### Halaman About
-About
+About  
+![About](https://drive.google.com/uc?export=view&id=1dLewHFys5JxBGYlb3m9u-BGuaqNXc-kv)
